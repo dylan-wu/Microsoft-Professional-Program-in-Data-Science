@@ -16,6 +16,12 @@
 
 | Course | Start | End | Progress |
 |--------|-------|-----|----------|
+| 5. Querying Data with Transact-SQL |  |  |  |
+| 6a. Introduction to R for Data Science  |  |  |  |
+| 6b. Introduction to Python for Data Science |  |  |  |
+| 7a. Essential Math for Machine Learning: R Edition |  |  |  |
+| 7b. Essential Math for Machine Learning: Python Edition |  |  |  |
+| 7c. Essential Statistics for Data Analysis using Excel |  |  |  |
 
 ## Unit 3 - Applied Data Science
 
@@ -23,6 +29,3 @@
 |--------|-------|-----|----------|
 
 ## Unit 4 - Capstone Project
-
-| Course | Start | End | Progress |
-|--------|-------|-----|----------|
