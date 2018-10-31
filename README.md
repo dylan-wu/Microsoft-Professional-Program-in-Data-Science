@@ -18,7 +18,7 @@
 |--------|-------|-----|----------|
 | 5. Querying Data with Transact-SQL |  |  |  |
 | 6a. Introduction to R for Data Science  |  |  |  |
-| 6b. Introduction to Python for Data Science |  |  |  |
+| [6b. Introduction to Python for Data Science](https://github.com/dylan-wu/Microsoft-DAT208x-Introduction-to-Python-for-Data-Science) |  |  |  |
 | 7a. Essential Math for Machine Learning: R Edition |  |  |  |
 | 7b. Essential Math for Machine Learning: Python Edition |  |  |  |
 | 7c. Essential Statistics for Data Analysis using Excel |  |  |  |
@@ -27,5 +27,12 @@
 
 | Course | Start | End | Progress |
 |--------|-------|-----|----------|
+| 8a. Data Science Research Methods: R Edition |  |  |  |
+| 8b. Data Science Research Methods: Python Edition |  |  |  |
+| 9a. Principles of Machine Learning: R Edition |  |  |  |
+| 9b. Principles of Machine Learning: Python Edition |  |  |  |
+| 10a. Developing Big Data Solutions with Azure Machine Learning |  |  |  |
+| 10b. Analyzing Big Data with Microsoft R |  |  |  |
+| 10c. Implementing Predictive Analytics with Spark in Azure HDInsight |  |  |  |
 
 ## Unit 4 - Capstone Project
